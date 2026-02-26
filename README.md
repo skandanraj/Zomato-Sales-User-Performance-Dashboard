@@ -161,13 +161,13 @@ Relationships were established using primary and foreign keys to enable accurate
 ![Overview](Screenshot/Overview.png)
 
 ### 🔹 User Performance Page
-![User Performance](Screenshot/User Performance.png)
+![User Performance](Screenshot/UserPerformance.png)
 
 ### 🔹 City Performance Page
-![City Performance](Screenshot/City Performance.png)
+![City Performance](Screenshot/CityPerformance.png)
 
 ### 🔹 Data Model
-![Data Model](Screenshot/Data Modelling.png)
+![Data Model](Screenshot/DataModelling.png)
 
 ---
 
