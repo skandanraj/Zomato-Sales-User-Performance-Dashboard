@@ -155,19 +155,19 @@ Relationships were established using primary and foreign keys to enable accurate
 ## 📷 Dashboard Preview
 
 ### 🔹 Intro Page
-![Intro](screenshots/Intro.png)
+![Intro](Screenshot/Intro.png)
 
 ### 🔹 Overview Page
-![Overview](screenshots/Overview.png)
+![Overview](Screenshot/Overview.png)
 
 ### 🔹 User Performance Page
-![User Performance](screenshots/User Performance.png)
+![User Performance](Screenshot/User Performance.png)
 
 ### 🔹 City Performance Page
-![City Performance](screenshots/City Performance.png)
+![City Performance](Screenshot/City Performance.png)
 
 ### 🔹 Data Model
-![Data Model](screenshots/Data Modelling.png)
+![Data Model](Screenshot/Data Modelling.png)
 
 ---
 
