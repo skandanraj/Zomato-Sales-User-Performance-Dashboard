@@ -151,8 +151,7 @@ Relationships were established using primary and foreign keys to enable accurate
 - Dynamic Top-N Ranking  
 - Gain vs Lost User Calculation  
 
----
-## 📷 Dashboard Preview
+---## 📷 Dashboard Preview
 
 ### 🔹 Intro Page
 ![Intro](Screenshot/Intro.png)
@@ -161,13 +160,13 @@ Relationships were established using primary and foreign keys to enable accurate
 ![Overview](Screenshot/Overview.png)
 
 ### 🔹 User Performance Page
-![User Performance](Screenshot/UserPerformance.png)
+![User Performance](Screenshot/User Performance.png)
 
 ### 🔹 City Performance Page
-![City Performance](Screenshot/CityPerformance.png)
+![City Performance](Screenshot/City Performance.png)
 
 ### 🔹 Data Model
-![Data Model](Screenshot/DataModelling.png)
+![Data Model](Screenshot/Data Modelling.png)
 
 ---
 
